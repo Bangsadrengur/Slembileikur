@@ -5,7 +5,7 @@ public class giskSpil
 {
     public static void Main()
     {
-        Vidmot nyrLeikur = new Vidmot();
+        new Vidmot();
     }
 }
 
